@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Vintage Leather Wallet",
+        "price": 49.99,
+        "image": "./assets/testovar.jpeg"
+    },
+    
+    {
+        "title": "Bluetooth Noise-Cancelling Headphones",
+        "price": 199.99,
+        "image": "./assets/testovar.jpeg"
+    }
+]

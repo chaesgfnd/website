@@ -1,0 +1,3 @@
+- [x] test tovary
+- [ ] na srtanitsu on /home
+- [ ] to cart /cart
